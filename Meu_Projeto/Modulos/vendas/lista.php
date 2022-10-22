@@ -41,9 +41,10 @@ foreach($vendas as $vendas){
 <?php }?>
 </table>
 
+<br/>
+<a href = "?modulo=vendas&acao=adcionar"> Adcionar </a>
 
 
-<a href  = "../../index.php"> Pagina Principal  </a>
 
 
 </body>

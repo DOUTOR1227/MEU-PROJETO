@@ -43,7 +43,7 @@ foreach($produtos as $produtos){
 <?php } ?>
 </table>
 
-<br/><a href  = "../../index.php"> Pagina Principal  </a>
+<br/><a href  = "?modulo=produtos&acao=adcionar"> Adcionar</a>
 
 
 </body>

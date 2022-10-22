@@ -2,17 +2,22 @@
 
 <head>
 
-
+<title> Pagina Principal </title>
 </head>
 <body>
+<h1 align = "center"> PAGINA PRINCIPAL </h1>
 
-<h1> Pagina principal </h1>
+<br/><a href="pagina_principal.php?modulo=categorias&acao=lista"> categorias</a>
+<br/><a href="pagina_principal.php?modulo=clientes&acao=lista"> clientes</a>
+<br/><a href="pagina_principal.php?modulo=produtos&acao=lista"> produtos</a>
+<br/><a href="pagina_principal.php?modulo=vendas&acao=lista"> vendas</a>
+<br/><a href="pagina_principal.php?modulo=vendedores&acao=lista"> vendedores</a>
+<?php 
 
-<br/><a href  = "Modulos/categorias/lista.php"> Categorias </a>
-<br/><a href  = "Modulos/clientes/lista.php"> Clientes </a>
-<br/><a href  = "Modulos/produtos/lista.php"> Produtos </a>
-<br/><a href  = "Modulos/vendas/lista.php"> Vendas </a>
-<br/><a href  = "Modulos/vendedores/lista.php"> Vendedores </a>
+
+
+?>
+
 
 </body>
 </html>

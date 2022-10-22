@@ -56,8 +56,8 @@ foreach ($Categorias as $Categorias){
 <?php } ?>
 </table>
 
+<br/><a href  = "?modulo=categorias&acao=adcionar"> Adcionar</a>
 
-<br/> <a href  = "../../index.php"> Pagina Principal  </a>
 
 
 </body>

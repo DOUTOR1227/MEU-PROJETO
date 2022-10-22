@@ -42,7 +42,7 @@ foreach($clientes as $clientes){
 
 
 
-<br/><a href  = "../../index.php"> Pagina Principal  </a>
+<br/><a href  = "?modulo=clientes&acao=adcionar"> Adcionar</a>
 
 
 </body>
